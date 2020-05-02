@@ -1,0 +1,27 @@
+.switcher {
+  position: absolute;
+  top: 600px;
+  right: 100px;
+}
+
+.data {
+  top: 750px;
+  left: 100px;
+  position: absolute;
+  z-index: 2;
+}
+
+.card {
+  border-style: groove;
+  float: left;
+  padding: 20px;
+}
+
+.svg-container {
+  position: absolute;
+}
+
+#map {
+  position: relative;
+  z-index: 1;
+}
